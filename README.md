@@ -42,7 +42,7 @@ You may also need to install additional dependencies for `pyaudio` (used by `Spe
 2. Run the script:
 
    ```sh
-   python sophia.py
+   python Sophia.py
    ```
 
 3. Say "sophia" followed by your command.  
